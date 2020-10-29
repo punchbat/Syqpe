@@ -3,7 +3,7 @@
 ### About me
 
 - 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning ReactJS, Algoritms
+- 🌱 I’m currently learning TypeScript && Redux, Algoritms
 - 👯 I’m looking to collaborate on those who changing the world
 - ⚡ Fun fact: i dont like to be lazy, but iam lazy person
 
