@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on those who changing the world
 - ⚡ Fun fact: i dont like to be lazy, but iam lazy person
 
-<br/>
 
 ### Current stack:
 
