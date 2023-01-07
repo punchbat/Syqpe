@@ -33,6 +33,6 @@
 
 <br/>
 
-### For fun :)
+### Have a good day!
  
 ![Jakie](https://raw.githubusercontent.com/jglovier/gifs/gh-pages/thumbs-up/jakie-chan-thumbsup.gif)
