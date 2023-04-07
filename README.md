@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Abat
 
 ### About me
+⚡⚡⚡ Was the Person of the Year in 2006 by The Times ⚡⚡⚡
 
-- 🔭 I’m currently working on my projects
+- 🔭 Software Engineer
 - 🌱 I’m currently learning Algoritms
-- 👯 I’m looking to collaborate on those who changing the world
-- ⚡ Fun fact: i dont like to be lazy, but iam lazy person
+- 👯 Looking to collaborate on those who changing the world
 
 ### Have a good day!
 ![Jakie](https://raw.githubusercontent.com/jglovier/gifs/gh-pages/thumbs-up/jakie-chan-thumbsup.gif)
